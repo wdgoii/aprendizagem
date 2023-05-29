@@ -3,8 +3,11 @@
 </div>
 <br>
 
-![Alt text](./imagem/diag01.jpg)
-
+![imagem](./imagem/diag01.jpg)
+<br>
+![imagem](./imagem/pull_push.png)
+<br>
+git reset - reverter commit local
 
 
 
